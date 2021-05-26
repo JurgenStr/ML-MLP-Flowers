@@ -2,8 +2,8 @@
 Script (notebook) Python implementasi Multilayer Perceptron sederhana untuk klasifikasi jenis bunga.
 
 ## Anggota Kelompok
-- Juandito Batara (18/427582/PA/18542)
-- Mario Adriel (18/430267/PA/18780)
+- Juandito Batara K. (18/427582/PA/18542)
+- Mario Adriel (18/430267/PA/18780) 
 - Francisca C. S. (18/427578/PA/18538)
 
 ## Keterangan Tugas
